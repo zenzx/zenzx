@@ -10,4 +10,4 @@
 - 🤔 六月份就高考了，估计会有时间了
 - 📫 2362315840@qq.com，欢迎找我哦～
 - 📱 其他联系方式--微信
-<img src="./wechat_page.jpeg" width = "300" height = "200" alt="微信二维码" />
+<img src="./wechat_page.jpeg" width = "300" height = "380" alt="微信二维码" />
